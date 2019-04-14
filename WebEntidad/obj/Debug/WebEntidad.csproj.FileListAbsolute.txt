@@ -1,0 +1,6 @@
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebEntidad\bin\WebEntidad.dll.config
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebEntidad\bin\WebEntidad.dll
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebEntidad\bin\WebEntidad.pdb
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebEntidad\obj\Debug\WebEntidad.csprojResolveAssemblyReference.cache
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebEntidad\obj\Debug\WebEntidad.dll
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebEntidad\obj\Debug\WebEntidad.pdb

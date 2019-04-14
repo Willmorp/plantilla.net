@@ -1,0 +1,8 @@
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\bin\WebNegocio.dll.config
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\bin\WebNegocio.dll
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\bin\WebNegocio.pdb
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\bin\WebEntidad.dll
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\bin\WebEntidad.pdb
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\obj\Debug\WebNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\obj\Debug\WebNegocio.dll
+C:\Users\LAB-USR-PT116-C309\Documents\semana3\PyConexion1\Solution1\WebNegocio\obj\Debug\WebNegocio.pdb
